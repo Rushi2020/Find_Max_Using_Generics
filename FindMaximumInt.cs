@@ -8,7 +8,7 @@ namespace Find_Max_Using_Generics
 {
     internal class FindMaximumInt
     {
-        public int MaxInt(int Value1, int Value2, int Value3)
+        public float maximumfloat(float Value1, float Value2, float Value3)
         {
             if (Value1.CompareTo(Value2) > 0 && Value1.CompareTo(Value3) > 0)
             {
